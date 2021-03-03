@@ -1,0 +1,10 @@
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\bin\Debug\WindowsFormsHandson.exe.config
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\bin\Debug\WindowsFormsHandson.exe
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\bin\Debug\WindowsFormsHandson.pdb
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.Form1.resources
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.Properties.Resources.resources
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.csproj.GenerateResource.cache
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.exe
+C:\Users\swetha\source\repos\WindowsFormsHandson\WindowsFormsHandson\obj\Debug\WindowsFormsHandson.pdb
