@@ -1,0 +1,10 @@
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\bin\Debug\WindowCalculatorHandson.exe.config
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\bin\Debug\WindowCalculatorHandson.exe
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\bin\Debug\WindowCalculatorHandson.pdb
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.Form1.resources
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.Properties.Resources.resources
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.csproj.GenerateResource.cache
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.exe
+C:\Users\swetha\source\repos\WindowCalculatorHandson\WindowCalculatorHandson\obj\Debug\WindowCalculatorHandson.pdb
