@@ -1,0 +1,10 @@
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\bin\Debug\WindowsForm_PictureHandson.exe.config
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\bin\Debug\WindowsForm_PictureHandson.exe
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\bin\Debug\WindowsForm_PictureHandson.pdb
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.Form1.resources
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.Properties.Resources.resources
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.csproj.GenerateResource.cache
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.exe
+C:\Users\swetha\source\repos\WindowsForm_PictureHandson\WindowsForm_PictureHandson\obj\Debug\WindowsForm_PictureHandson.pdb
