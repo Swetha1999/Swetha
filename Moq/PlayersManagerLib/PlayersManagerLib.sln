@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersManagerLib", "PlayersManagerLib\PlayersManagerLib.csproj", "{2EA66C43-FD67-4BA1-8298-77B0A76ED837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManager_Tests", "PlayerManager_Tests\PlayerManager_Tests.csproj", "{0D3D9190-99D8-43DF-B85E-2D942D9C1117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA66C43-FD67-4BA1-8298-77B0A76ED837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA66C43-FD67-4BA1-8298-77B0A76ED837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA66C43-FD67-4BA1-8298-77B0A76ED837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA66C43-FD67-4BA1-8298-77B0A76ED837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3D9190-99D8-43DF-B85E-2D942D9C1117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3D9190-99D8-43DF-B85E-2D942D9C1117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3D9190-99D8-43DF-B85E-2D942D9C1117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3D9190-99D8-43DF-B85E-2D942D9C1117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F786D3-49F5-4BFF-A731-9C8A3E036998}
+	EndGlobalSection
+EndGlobal
