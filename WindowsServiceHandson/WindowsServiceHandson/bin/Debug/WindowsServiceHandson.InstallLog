@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.exe

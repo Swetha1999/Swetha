@@ -1,0 +1,9 @@
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\obj\Debug\WindowsServiceHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\obj\Debug\WindowsServiceHandson.ProjectInstaller.resources
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\obj\Debug\WindowsServiceHandson.csproj.GenerateResource.cache
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\obj\Debug\WindowsServiceHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.exe.config
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.exe
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\bin\Debug\WindowsServiceHandson.pdb
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\obj\Debug\WindowsServiceHandson.exe
+C:\Users\swetha\source\repos\WindowsServiceHandson\WindowsServiceHandson\obj\Debug\WindowsServiceHandson.pdb
