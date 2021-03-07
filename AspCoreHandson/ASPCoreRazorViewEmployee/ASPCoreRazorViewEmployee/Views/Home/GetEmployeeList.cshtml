@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ASPCoreRazorViewEmployee.Models.Employee>
+@{
+    ViewData["Title"] = "GetEmployeeList";
+    
+}
+
+<h1>GetEmployeeList</h1>
+
+<div class="row">
+<span class="col-md-4">Name</span>
+<span class="col-md-4">Salary</span>
+</div>
+@foreach (var i in Model)
+{
+    if (i.IsPermanent)
+    {
+<div class="row">
+    <span class="col-md-4"> <mark class="alert-danger">@i.Name</mark></span>
+    <span class="col-md-4"> <mark class="alert-danger">@i.Salary</mark></span>
+
+</div>
+    }
+    else
+    {
+        <div class="row">
+            <span class="col-md-4">@i.Name</span>
+            <span class="col-md-4">@i.Salary</span>
+
+        </div>
+
+    }
+}
+

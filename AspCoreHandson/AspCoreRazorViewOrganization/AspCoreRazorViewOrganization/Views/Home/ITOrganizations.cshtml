@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "ITOrganizations";
+    List<string> l = new List<string>();
+    l.Add("Amazon");
+    l.Add("Google");
+    l.Add("TCS");
+    l.Add("Microsoft");
+    l.Add("CTS");
+}
+
+<h1>ITOrganizations</h1>
+<div>
+    @foreach (var i in l)
+    {
+        if (i == "Amazon")
+        {
+            <div> <span><b>@i</b></span></div>
+        }
+        else
+        {
+            <div><span>@i</span>
+        </div>
+        }
+    }
+</div>
+

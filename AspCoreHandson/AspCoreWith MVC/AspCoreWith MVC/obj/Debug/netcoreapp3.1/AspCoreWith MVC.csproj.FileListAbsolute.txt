@@ -1,0 +1,37 @@
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.exe
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.deps.json
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.runtimeconfig.json
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.runtimeconfig.dev.json
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.dll
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.pdb
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.Views.dll
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\bin\Debug\netcoreapp3.1\AspCoreWith MVC.Views.pdb
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.AssemblyInfoInputs.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.AssemblyInfo.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.RazorAssemblyInfo.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.RazorAssemblyInfo.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspCoreWith MVC.StaticWebAssets.Manifest.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspCoreWith MVC.StaticWebAssets.xml
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspCoreWith MVC.styles.css
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.TagHelpers.input.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.TagHelpers.output.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.RazorCoreGenerate.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.RazorTargetAssemblyInfo.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.RazorTargetAssemblyInfo.cs
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.Views.pdb
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.dll
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.pdb
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.genruntimeconfig.cache
+C:\Users\swetha\source\repos\AspCoreWith MVC\AspCoreWith MVC\obj\Debug\netcoreapp3.1\AspCoreWith MVC.csproj.CopyComplete
