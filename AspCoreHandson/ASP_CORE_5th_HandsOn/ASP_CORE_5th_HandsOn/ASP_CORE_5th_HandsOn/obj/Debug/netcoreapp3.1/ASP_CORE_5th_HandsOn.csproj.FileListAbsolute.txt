@@ -1,0 +1,448 @@
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.exe
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.deps.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.dev.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfoInputs.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfo.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.Manifest.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.xml
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP_CORE_5th_HandsOn.styles.css
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.input.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.output.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorCoreGenerate.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CopyComplete
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.genruntimeconfig.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetEmployeeList.cshtml.g.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\_EmployeeList.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.exe
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.deps.json
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.Manifest.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.xml
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP_CORE_5th_HandsOn.styles.css
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.input.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.output.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorCoreGenerate.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetEmployeeList.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\_EmployeeList.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cache
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CopyComplete
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Users\ramya\source\repos\HandsOn\ASP\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.genruntimeconfig.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.exe
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.deps.json
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.json
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.dev.json
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csprojAssemblyReference.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfoInputs.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfo.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.Manifest.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.xml
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP_CORE_5th_HandsOn.styles.css
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.input.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.output.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorCoreGenerate.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetEmployeeList.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\_EmployeeList.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cache
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cs
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CopyComplete
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Users\swetha\Downloads\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.genruntimeconfig.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.exe
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.deps.json
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.json
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.runtimeconfig.dev.json
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csprojAssemblyReference.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfoInputs.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.AssemblyInfo.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CoreCompileInputs.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.MvcApplicationPartsAssemblyInfo.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorAssemblyInfo.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.Manifest.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\staticwebassets\ASP_CORE_5th_HandsOn.StaticWebAssets.xml
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP_CORE_5th_HandsOn.styles.css
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.input.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.TagHelpers.output.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorCoreGenerate.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetEmployeeList.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Home\_EmployeeList.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cache
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.RazorTargetAssemblyInfo.cs
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.Views.pdb
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.csproj.CopyComplete
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.dll
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.pdb
+C:\Handson\Swetha\AspCoreHandson\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_5th_HandsOn.genruntimeconfig.cache

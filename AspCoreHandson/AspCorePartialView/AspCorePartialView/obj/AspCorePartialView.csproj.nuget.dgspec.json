@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\swetha\\source\\repos\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj": {}
+    "C:\\Handson\\Swetha\\AspCoreHandson\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj": {}
   },
   "projects": {
-    "C:\\Users\\swetha\\source\\repos\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj": {
+    "C:\\Handson\\Swetha\\AspCoreHandson\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swetha\\source\\repos\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj",
+        "projectUniqueName": "C:\\Handson\\Swetha\\AspCoreHandson\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj",
         "projectName": "AspCorePartialView",
-        "projectPath": "C:\\Users\\swetha\\source\\repos\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj",
+        "projectPath": "C:\\Handson\\Swetha\\AspCoreHandson\\AspCorePartialView\\AspCorePartialView\\AspCorePartialView.csproj",
         "packagesPath": "C:\\Users\\swetha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swetha\\source\\repos\\AspCorePartialView\\AspCorePartialView\\obj\\",
+        "outputPath": "C:\\Handson\\Swetha\\AspCoreHandson\\AspCorePartialView\\AspCorePartialView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\swetha\\AppData\\Roaming\\NuGet\\NuGet.Config",
