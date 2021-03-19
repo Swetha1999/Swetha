@@ -1,0 +1,13 @@
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\bin\Debug\netcoreapp3.1\FacadePatternHandson.exe
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\bin\Debug\netcoreapp3.1\FacadePatternHandson.deps.json
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\bin\Debug\netcoreapp3.1\FacadePatternHandson.runtimeconfig.json
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\bin\Debug\netcoreapp3.1\FacadePatternHandson.runtimeconfig.dev.json
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\bin\Debug\netcoreapp3.1\FacadePatternHandson.dll
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\bin\Debug\netcoreapp3.1\FacadePatternHandson.pdb
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.AssemblyInfoInputs.cache
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.AssemblyInfo.cs
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.dll
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.pdb
+C:\Users\swetha\source\repos\FacadePatternHandson\FacadePatternHandson\obj\Debug\netcoreapp3.1\FacadePatternHandson.genruntimeconfig.cache

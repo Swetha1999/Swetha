@@ -1,0 +1,13 @@
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\bin\Debug\netcoreapp3.1\MediatorPatternHandson.exe
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\bin\Debug\netcoreapp3.1\MediatorPatternHandson.deps.json
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\bin\Debug\netcoreapp3.1\MediatorPatternHandson.runtimeconfig.json
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\bin\Debug\netcoreapp3.1\MediatorPatternHandson.runtimeconfig.dev.json
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\bin\Debug\netcoreapp3.1\MediatorPatternHandson.dll
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\bin\Debug\netcoreapp3.1\MediatorPatternHandson.pdb
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.AssemblyInfoInputs.cache
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.AssemblyInfo.cs
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.dll
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.pdb
+C:\Users\swetha\source\repos\MediatorPatternHandson\MediatorPatternHandson\obj\Debug\netcoreapp3.1\MediatorPatternHandson.genruntimeconfig.cache

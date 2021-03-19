@@ -1,0 +1,13 @@
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\bin\Debug\netcoreapp3.1\AbstractPatternHandson.exe
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\bin\Debug\netcoreapp3.1\AbstractPatternHandson.deps.json
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\bin\Debug\netcoreapp3.1\AbstractPatternHandson.runtimeconfig.json
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\bin\Debug\netcoreapp3.1\AbstractPatternHandson.runtimeconfig.dev.json
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\bin\Debug\netcoreapp3.1\AbstractPatternHandson.dll
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\bin\Debug\netcoreapp3.1\AbstractPatternHandson.pdb
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.AssemblyInfoInputs.cache
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.AssemblyInfo.cs
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.dll
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.pdb
+C:\Users\swetha\source\repos\AbstractPatternHandson\AbstractPatternHandson\obj\Debug\netcoreapp3.1\AbstractPatternHandson.genruntimeconfig.cache

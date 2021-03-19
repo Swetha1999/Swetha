@@ -1,0 +1,13 @@
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\bin\Debug\netcoreapp3.1\SingletonHandson.exe
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\bin\Debug\netcoreapp3.1\SingletonHandson.deps.json
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\bin\Debug\netcoreapp3.1\SingletonHandson.runtimeconfig.json
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\bin\Debug\netcoreapp3.1\SingletonHandson.runtimeconfig.dev.json
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\bin\Debug\netcoreapp3.1\SingletonHandson.dll
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\bin\Debug\netcoreapp3.1\SingletonHandson.pdb
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.csprojAssemblyReference.cache
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.AssemblyInfoInputs.cache
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.AssemblyInfo.cs
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.csproj.CoreCompileInputs.cache
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.dll
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.pdb
+C:\Users\swetha\source\repos\SingletonHandson\SingletonHandson\obj\Debug\netcoreapp3.1\SingletonHandson.genruntimeconfig.cache
